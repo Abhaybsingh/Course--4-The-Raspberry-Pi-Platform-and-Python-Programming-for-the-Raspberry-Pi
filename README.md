@@ -1,1 +1,3 @@
 # Course--4-The-Raspberry-Pi-Platform-and-Python-Programming-for-the-Raspberry-Pi
+
+The Raspberry Pi is a small, affordable single-board computer that you will use to design and develop fun and practical IoT devices while learning programming and computer hardware. In addition, you will learn how to set up up the Raspberry Pi environment, get a Linux operating system running, and write and execute some basic Python code on the Raspberry Pi. You will also learn how to use Python-based IDE (integrated development environments) for the Raspberry Pi and how to trace and debug Python code on the device.
